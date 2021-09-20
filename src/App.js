@@ -19,6 +19,9 @@ function App() {
           new change g2 qwe
           new change g2 123
           new change g2 1223
+          new change from g1 voluntario
+          new change from g1 voluntario
+          new change grom g1 1 nuevo
         </a>
       </header>
     </div>
